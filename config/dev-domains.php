@@ -20,6 +20,7 @@ return [
     'craftcms.com',
     'crudecode.com',
     'designandbuildsandbox.com',
+    'dev.xyz',
     'development-client-server.com',
     'devhandle.com',
     'devprevu.com',
